@@ -1,5 +1,14 @@
 # Getting Started with Create React App
 
+Techs: TypeScript, React, Styled-Components, React-Redux Redux-Toolkit
+
+example:
+![main](./main.png)
+![main](./main-1.png)
+![main](./cart.png)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
